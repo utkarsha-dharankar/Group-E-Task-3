@@ -1,0 +1,194 @@
+.main{
+    background-color: black;
+    border: 1px black solid;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    margin: auto;
+
+   
+}
+.main-1{
+    height: 600px;
+    align-self: center;
+    display: block;
+    margin-left: 90px;
+       
+    border: white;
+    background-color:black;
+    width: 70%;
+    
+}
+.main-2{
+    margin-top: 40px;
+    height: 600px;
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.c1{
+    background-image: url("./no-microphone.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-color:#1e2f2f ;
+    border: solid 2px #1e2f2f;
+         border-radius: 10px;
+         height: 150px;
+         width: 300px;
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 20px;
+         margin-top: 20px;
+         margin-left: 50px;
+         
+}
+.c2{
+    background-image: url("./no-microphone.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-color:#1e2f2f ;
+    border: solid 2px #1e2f2f;
+         border-radius: 10px;
+         height: 150px;
+         width: 300px;
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 20px;
+         margin-top: 20px;
+         margin-left: 50px;
+         
+}
+.c3{
+    background-image: url("./no-microphone.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-color:#1e2f2f ;
+    border: solid 2px #1e2f2f;
+         border-radius: 10px;
+         height: 150px;
+         width: 300px;
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 20px;
+         margin-top: 20px;
+         margin-left: 50px;
+         
+}
+.c4{
+    background-image: url("./no-microphone.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-color:#1e2f2f ;
+    border: solid 2px #1e2f2f;
+         border-radius: 10px;
+         height: 150px;
+         width: 300px;
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 20px;
+         margin-top: 20px;
+         margin-left: 50px;
+         
+}
+.c5{
+    background-image: url("./no-microphone.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-color:#1e2f2f ;
+    border: solid 2px #1e2f2f;
+         border-radius: 10px;
+         height: 150px;
+         width: 300px;
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 20px;
+         margin-top: 20px;
+         margin-left: 50px;
+         
+}
+.c6{
+    background-image: url("./no-microphone.png") ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-color:#1e2f2f ;
+    border: solid 2px #1e2f2f;
+         border-radius: 10px;
+         height: 150px;
+         width: 300px;
+         display: inline-block;
+         padding-left: 20px;
+         padding-top: 20px;
+         margin-top: 20px;
+         margin-left: 50px;
+         
+}
+
+    .main_img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+    
+    .heading{
+        margin-top: 15px;
+        display: flex;
+        margin-left: 20px;
+        
+    }
+
+    .close{
+        margin-top: 25px;
+        margin-left: 280px;
+        height: 20px;
+    }
+.menu{
+    display: flex;
+    margin-left: 20px;
+}
+.menu-img{
+    
+    margin-top: 25px;
+    height: 25px;
+    margin-right:20px;
+    border-radius: 50%;
+}
+.c1:hover{
+ background-color: #3c5d5d;   
+}
+.c2:hover{
+    background-color: #3c5d5d;   
+   }
+   .c3:hover{
+    background-color: #3c5d5d;   
+   }
+   .c4:hover{
+    background-color: #3c5d5d;   
+   }
+   .c5:hover{
+    background-color: #3c5d5d;   
+   }
+   .c6:hover{
+    background-color: #3c5d5d;   
+   }
+
+   .menu:hover{
+    background-color: #e0ebeb;
+   }
+
+   .para{
+    
+     font-size: 10px;
+     
+     
+   }
